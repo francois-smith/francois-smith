@@ -1,4 +1,4 @@
-### Hi there, my name is Francois Smith
+<h1 allign="center>Hi there, my name is Francois Smith</h1>
 ##I am a aspiring game developer currentely studying a degree in multimedia
 
 - 🎓 Im curentely studying at the University of Pretoria
