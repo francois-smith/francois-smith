@@ -1,9 +1,8 @@
 <h1 align="center">My name is Francois Smith</h1>
-<h3 align="center">I am currently studying BIS Multimedia</h3>
+<h3 align="center">I am currently studying BIS Multimedia at the University of Pretoria</h3>
 
-- 🎓 I’m currently studying at the University of Pretoria
-- 📫 How to reach me?: smithfaffa@gmail.com
-- ⚡ Fun fact! I want to own my own game dev studio one day
+- 📫 You can reach me at smithfaffa@gmail.com
+- ⚡ Fun fact! I want to own my own game dev studio one day!
 
 <br/>
 
