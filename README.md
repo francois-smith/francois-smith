@@ -8,8 +8,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowslayerza&show_icons=true&theme=dark&locale=en">
 
-<br/>
-
 <h3 align="left">Things I am proficient in:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
