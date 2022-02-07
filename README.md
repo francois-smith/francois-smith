@@ -1,10 +1,31 @@
-<h1 align="center">My name is Francois Smith <img width="30" <img width="50" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></h1> 
+<h1 align="center">My name is Francois Smith <img width="30" <img width="60" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></h1> 
 <h3 align="center">I am currently studying BIS Multimedia at the University of Pretoria</h3>
 
 - 📫 You can reach me at smithfaffa@gmail.com
 - ⚡ Fun fact! I want to one day own a game dev studio!
 
 <br/>
+
+<p align="center">
+  <a href="https://github.com/shravan20" target="_blank">
+    <img src="https://img.shields.io/github/followers/shravan20?label=Follow%20Me&style=social"/>
+  </a>
+
+
+  <a href="https://twitter.com/imshravankb" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/imshravankb?style=social"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/shravankb/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/shravankb"/>
+  </a>
+    <a href="https://nervous-spruce-c3486.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/check-portfolio-pink?style=flat-square&logo=jupyter&logoColor=red"/>
+  </a>
+</p>
+
+
+<p align="center"> <img src="https://gpvc.arturio.dev/shravan20" alt="profile-views"> </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=francois-smith&count_private=true&show_icons=true&theme=dark&locale=en">
 
