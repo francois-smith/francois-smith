@@ -10,7 +10,7 @@
   <a href="https://github.com/francois-smith" target="_blank">
     <img src="https://img.shields.io/github/followers/shravan20?label=Follow%20Me&style=social"/>
   </a>
-  <img src="https://gpvc.arturio.dev/shravan20" alt="profile-views">
+  <img src="https://gpvc.arturio.dev/francois-smith" alt="profile-views">
 </p>
 
 
