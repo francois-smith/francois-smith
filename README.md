@@ -10,22 +10,11 @@
   <a href="https://github.com/francois-smith" target="_blank">
     <img src="https://img.shields.io/github/followers/shravan20?label=Follow%20Me&style=social"/>
   </a>
-
-
-  <a href="https://twitter.com/Smithfrancois0" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/SmithFrancois?style=social"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/shravankb/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/shravankb"/>
-  </a>
-    <a href="https://nervous-spruce-c3486.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/check-portfolio-pink?style=flat-square&logo=jupyter&logoColor=red"/>
-  </a>
+  <img src="https://gpvc.arturio.dev/shravan20" alt="profile-views">
 </p>
 
 
-<p align="center"> <img src="https://gpvc.arturio.dev/shravan20" alt="profile-views"> </p>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=francois-smith&count_private=true&show_icons=true&theme=dark&locale=en">
 
