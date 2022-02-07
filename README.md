@@ -6,7 +6,7 @@
 
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=shadowslayerza&show_icons=true&theme=dark&locale=en">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shadowslayerza&show_icons=true&theme=dark&locale=en"></p>
 
 <h3 align="left">Things I am proficient in:</h3>
 <p align="left"> 
