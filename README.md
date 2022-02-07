@@ -71,3 +71,4 @@ These are some of the technologies and tools that I work with:
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francois-smith&theme=dark" />
   </a>
 </p>
+
