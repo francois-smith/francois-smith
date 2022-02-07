@@ -6,7 +6,7 @@
 
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowslayerza&show_icons=true&theme=tokyonight&locale=en" /></p>
+><img align="left" src="https://github-readme-stats.vercel.app/api?username=shadowslayerza&show_icons=true&theme=dark&locale=en"
 
 <h3 align="left">Things I am proficient in:</h3>
 <p align="left"> 
@@ -32,6 +32,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> 
   </a> 
 </p>
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowslayerza&show_icons=true&theme=dark&locale=en&layout=compact">
