@@ -34,4 +34,4 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shadowslayerza></p>
+https://github-readme-stats.vercel.app/api/top-langs/?username=shadowslayerza&layout=compact
