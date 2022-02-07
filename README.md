@@ -58,12 +58,12 @@ These are some of the technologies and tools that I work with:
 
 <p align="center">
   <a href="https://github.com/francois-smith">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=algolia" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=francois-smith&show_icons=true&theme=dark" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/francois-smith">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francois-smith&theme=algolia#version3" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francois-smith&theme=dark" />
   </a>
 </p>
 <p align="center">
