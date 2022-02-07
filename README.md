@@ -7,13 +7,13 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/shravan20" target="_blank">
+  <a href="https://github.com/francois-smith" target="_blank">
     <img src="https://img.shields.io/github/followers/shravan20?label=Follow%20Me&style=social"/>
   </a>
 
 
-  <a href="https://twitter.com/imshravankb" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/imshravankb?style=social"/>
+  <a href="https://twitter.com/Smithfrancois0" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/SmithFrancois?style=social"/>
   </a>
 
   <a href="https://www.linkedin.com/in/shravankb/" target="_blank">
