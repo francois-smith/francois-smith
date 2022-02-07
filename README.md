@@ -6,7 +6,7 @@
 
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowslayerza&count_private=true&show_icons=true&theme=dark&locale=en">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=francois-smith&count_private=true&show_icons=true&theme=dark&locale=en">
 
 <h3 align="left">Things I am proficient in:</h3>
 <p align="left"> 
@@ -33,4 +33,4 @@
   </a> 
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowslayerza&show_icons=true&theme=dark&locale=en&layout=compact">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francois-smith&show_icons=true&theme=dark&locale=en&layout=compact">
