@@ -57,6 +57,11 @@ These are some of the technologies and tools that I work with:
 ### :octocat:  My Github Stats
 
 <p align="center">
+  <a href="https://github.com/francois-smith"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francois-smith&show_icons=true&theme=dark&locale=en">
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/francois-smith">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=francois-smith&show_icons=true&theme=dark" />
   </a>
@@ -66,8 +71,3 @@ These are some of the technologies and tools that I work with:
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francois-smith&theme=dark" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/francois-smith"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francois-smith&show_icons=true&theme=dark&locale=en">
-  </a>
- </p>
