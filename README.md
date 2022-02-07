@@ -11,11 +11,9 @@
 
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowslayerza&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="keelan-matthews" /></p>
-  
-<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowslayerza&show_icons=true&theme=tokyonight&locale=en" /></p>
 
-<h3 align="left">Things I am profecient in::</h3>
+<h3 align="left">Things I am proficient in::</h3>
 <p align="left"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60/> 
