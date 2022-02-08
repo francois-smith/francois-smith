@@ -20,22 +20,42 @@
 
 These are some of the technologies and tools that I work with:
 
-<table style="width:100%" align="center">
+<table style="width:100%">
  <tr>
     <th>Programming Languages</th>
     <td> 
       <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+      <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
+      <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />      
    </td>
   </tr>
   <tr>
-    <th>Automate, Deploy, Platform & Tools</th>
+    <th>Frameworks</th>
+    <td>
+      <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
+    </td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <td>
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Automation & Tools</th>
     <td>
       <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /> 
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
     </td>
   </tr>
-
+  <tr>
+    <th>Testing</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white" />
+      <img src="https://img.shields.io/badge/Junit5-25A162.svg?&style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
   <tr>
     <th>Operating Systems</th>
     <td>
@@ -50,7 +70,8 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white" />
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
     </td>
-  </tr>  
+  </tr>
+  
 </table>
 
 <hr/>
