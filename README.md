@@ -50,13 +50,6 @@ These are some of the technologies and tools that I work with:
     </td>
   </tr>
   <tr>
-    <th>Testing</th>
-    <td>
-      <img src="https://img.shields.io/badge/-Mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white" />
-      <img src="https://img.shields.io/badge/Junit5-25A162.svg?&style=flat-square&logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
     <th>Operating Systems</th>
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
