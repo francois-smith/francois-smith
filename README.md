@@ -20,7 +20,7 @@
 
 These are some of the technologies and tools that I work with:
 
-<table style="width:100%">
+<table style="width:100%" align="center">
  <tr>
     <th>Programming Languages</th>
     <td> 
