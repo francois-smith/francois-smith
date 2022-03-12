@@ -4,7 +4,6 @@
 - 📫 You can reach me at contact@francois-smith.com
 - 🏗️ Visit my [website](https://francois-smith.com), it is still under heavy construction!
 - ⚡ Fun fact! I want to one day own a game dev studio!
-
 <br/>
 
 <p align="center">
