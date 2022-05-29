@@ -81,8 +81,8 @@ These are some of the technologies and tools that I work with:
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/francois-smith"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=francois-smith&include_all_commits=true&show_icons=true&theme=dark&show_icons=true">
+  <a href="https://github.com/francois-smith">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=francois-smith&show_icons=true&theme=dark&show_icons=true&count_private=true&include_all_commits=true">
   </a>
 </p>
 <p align="center">
