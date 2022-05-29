@@ -72,17 +72,21 @@ These are some of the technologies and tools that I work with:
 
 <p align="center">
   <a href="https://github.com/francois-smith"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francois-smith&show_icons=true&theme=dark&locale=en&style=compact&count_private=true">
+  <img align="center" src="
+                           https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact
+                           https://github-readme-stats.vercel.app/api/top-langs/?username=francois-smith&show_icons=true&theme=dark&locale=en&style=compact&count_private=true">
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/francois-smith">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=francois-smith&show_icons=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=francois-smith&include_all_commits=true&show_icons=true&theme=dark"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/francois-smith">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francois-smith&theme=dark" />
+    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats
+                             https://github-readme-streak-stats.herokuapp.com/?user=francois-smith&theme=dark" />
   </a>
 </p>
 
