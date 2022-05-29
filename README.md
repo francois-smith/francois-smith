@@ -82,12 +82,9 @@ These are some of the technologies and tools that I work with:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=francois-smith&include_all_commits=true&show_icons=true&theme=dark"/>
   </a>
 </p>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <a href="https://github.com/francois-smith">
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats
-                             https://github-readme-streak-stats.herokuapp.com/?user=francois-smith&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=francois-smith&theme=dark"/>
   </a>
 </p>
 
