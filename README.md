@@ -72,17 +72,17 @@ These are some of the technologies and tools that I work with:
 
 <p align="center">
   <a href="https://github.com/francois-smith">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francois-smith&theme=dark"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/francois-smith"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=francois-smith&include_all_commits=true&show_icons=true&theme=dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francois-smith&theme=dark&layout=compact"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/francois-smith">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=francois_smith&theme=dark">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/francois-smith"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=francois-smith&include_all_commits=true&show_icons=true&theme=dark">
   </a>
 </p>
 <p align="center">
