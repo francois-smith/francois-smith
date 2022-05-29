@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/github/followers/francois-smith?label=Follow%20Me&style=social"/>
   </a>
   <img src="https://gpvc.arturio.dev/francois-smith" alt="profile-views">
+  <img src="https://wakatime.com/badge/user/f408ca98-01de-4e3a-8249-508f8e6bd203.svg" alt="Total time coded since May 29 2022" />
 </p>
 
 <hr/>
