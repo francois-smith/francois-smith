@@ -20,6 +20,8 @@
 
 These are some of the technologies and tools that I work with:
 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
 <table style="width:100%" align="center">
  <tr>
     <th>Programming Languages</th>
