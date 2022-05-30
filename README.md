@@ -31,9 +31,11 @@ These are some of the technologies and tools that I work with:
    </td>
   </tr>
   <tr>
-    <th>Frameworks</th>
+    <th>Frameworks and Libraries</th>
     <td>
       <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
+      <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
       <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" />
     </td>
   </tr>
