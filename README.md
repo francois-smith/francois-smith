@@ -105,6 +105,6 @@ These are some of the technologies and tools that I work with:
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francois-smith&theme=dark" />
   </a>
   <a href="https://github.com/francois-smith">
-    <img align="center" src=" https://github-profile-trophy.vercel.app/?username=francois-smith&theme=chalk" />
+    <img src="https://github-profile-trophy.vercel.app/?username=francois-smith&theme=chalk" />
   </a>
 </p>
