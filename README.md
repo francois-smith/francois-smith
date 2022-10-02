@@ -29,7 +29,7 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/-Python-ffff47?style=for-the-badge&logo=python" />
-
+  
    </td>
   </tr>
   <tr>
@@ -103,5 +103,8 @@ These are some of the technologies and tools that I work with:
 <p align="center">
   <a href="https://github.com/francois-smith">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francois-smith&theme=dark" />
+  </a>
+  <a href="https://github.com/francois-smith">
+    <img align="center" src=" https://github-profile-trophy.vercel.app/?username=francois-smith&theme=chalk" />
   </a>
 </p>
