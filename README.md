@@ -2,7 +2,7 @@
 <h3 align="center">I am currently studying BIS Multimedia at the University of Pretoria</h3>
 
 - 📫 You can reach me at contact@francois-smith.com
-- ⚡ Fun fact! I want to one day own a game dev studio!
+- ⚡ I also enjoy occasional game development! 
 <br/>
 
 <p align="center">
